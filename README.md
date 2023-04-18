@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arithmion
-- 👀 I’m interested in ... working for GitHub. In my spare time, I like to experiment with minecraft modpacks.
-- 🌱 I’m currently learning ... how to edit code for my modding hobby. I'm not a creator yet, but I hope to be someday!
+- 👀 I’m interested in personal app creation. In my spare time, I like to experiment with minecraft modpacks.
+- 🌱 I’m currently learning javascript and backend web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

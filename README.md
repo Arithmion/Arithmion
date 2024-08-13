@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Arithmion
+- Most of my coding is offline, I do more than github shows.
 - 👀 I’m interested in personal webapp creation. In my spare time, I like to experiment with minecraft modpacks.
 - 🌱 I’m currently learning JS, Golang and backend web development.
 - 💞️ I’m looking to collaborate on ...
